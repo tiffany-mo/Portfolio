@@ -2,11 +2,16 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
-    font-family:'Helvetica'
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+#navBar {
+    margin: 5%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 10px;
 }
 nav ul li, footer ul li {
     display: inline;
