@@ -3,10 +3,8 @@
 <head>
 <style>
   
-  
 }
 nav ul, footer ul {
-    font-family:'Helvetica'
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -18,14 +16,16 @@ nav ul li, footer ul li {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 5;
+  padding: 10px;
   overflow: hidden;
   background-color: #8FBC8F;
   text-align: center;
+  font-family:"Arial Black", Gadget, sans-serif;
+
 }
 a {
     text-decoration: none;
-    color: #999;
+    color:  #ecc6c6;
 }
 a:hover {
     text-decoration: underline;
