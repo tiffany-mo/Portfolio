@@ -30,39 +30,24 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica'
-    font-weight: bold;
 
+h2 {
+text-align: center;
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
-h4 {
-    font-size: 3em;
-    font-family:'Helvetica'
-    font-weight: bold;
-
-}
-p {
-    font-size: 1.0em;
-    line-height: 1.0em;
-    color: #333;
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+h3 {
+text-align: center;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+#passgen {
+    margin-left: 15%;
+    margin-right: 5%;
+ 
 }
 
-ul.posts li {
-    list-style: none;
+#btb {
+    margin-left: 15%;
+    margin-right: 5%;
+
 }
 </body>
 </html>
