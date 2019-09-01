@@ -30,5 +30,15 @@ a {
 a:hover {
     text-decoration: underline;
 }
+h3 {
+	text-align: center;
+	color:  #df9f9f
+}
+div1 {
+  display: block;
+  margin-left: 50px;
+  margin-right: 10px;
+}
+
 </body>
 </html>
