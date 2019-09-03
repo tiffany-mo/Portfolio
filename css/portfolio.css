@@ -7,8 +7,6 @@
 <head>
 <style>
   
-  
-}
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
@@ -18,6 +16,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+/* makes my navbar green and centers text */
 ul {
   list-style-type: none;
   margin: 0;
@@ -26,8 +25,8 @@ ul {
   background-color: #8FBC8F;
   text-align: center;
   font-family:"Arial Black", Gadget, sans-serif;
-
 }
+/* makes the text in the navbar pink */
 a {
     text-decoration: none;
     color:  #ecc6c6;
@@ -39,7 +38,7 @@ a:hover {
 h1 {
 text-align: center;
 }
-
+/* makes portfolio title centered and pink */
 h3 {
 text-align: center;
 color:  #df9f9f
@@ -54,17 +53,15 @@ color:  #df9f9f
 p {
   color: gray;
 }
-
+/* centers the password generator project */
 #passgen {
     margin-left: 25%;
     margin-right: 5%;
- 
 }
-
+/* centers the blown to bits project */
 #btb {
     margin-left: 25%;
     margin-right: 5%;
-
 }
 </body>
 </html>
