@@ -1,17 +1,16 @@
-    
-</body>
-</html>
 
 <!DOCTYPE html>
 <html>
 <head>
 <style>
-  
+
+/* makes the text in the navbar bold*/  
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+/* makes the text in the navbar in a horizontal line*/
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -31,25 +30,24 @@ a {
     text-decoration: none;
     color:  #ecc6c6;
 }
-a:hover {
-    text-decoration: underline;
-}
-
+/* centers my header */
 h1 {
 text-align: center;
 }
+
 /* makes portfolio title centered and pink */
 h3 {
 text-align: center;
 color:  #df9f9f
 }
 
+/* makes blown to bits title centered and pink */
 h4 {
 text-align: center;
 color:  #df9f9f
-
 }
 
+/* makes the small text at the top under "tiffany's website" gray */
 p {
   color: gray;
 }
